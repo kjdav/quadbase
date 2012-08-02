@@ -19,7 +19,7 @@ ActiveRecord::Base.logger = Logger.new(STDOUT)
 ActiveRecord::Base.logger.level = Logger::DEBUG
 
 
-
+kim is cool
 can do same thing with activerecord
 
 in console, do
